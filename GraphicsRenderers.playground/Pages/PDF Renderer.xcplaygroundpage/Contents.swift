@@ -1,5 +1,9 @@
-//: Playground - noun: a place where people can play
-
+//: [Image Renderer](@previous)
 import UIKit
+/*:
+ # PDF Renderer
+ 
+ Easily create PDFs
+ */
 
-var str = "Hello, playground"
+//: [Context Reuse](@next)

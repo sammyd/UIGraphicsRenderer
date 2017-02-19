@@ -1,7 +1,8 @@
-//: [Previous](@previous)
+//: [Context Reuse](@previous)
+import UIKit
+/*:
+ # Subclassing UIGraphicsRenderer
+ 
+ Create your own subclasses to make full use of the context pooling
+ */
 
-import Foundation
-
-var str = "Hello, playground"
-
-//: [Next](@next)

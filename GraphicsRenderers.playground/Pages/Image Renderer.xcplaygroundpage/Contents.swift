@@ -1,7 +1,11 @@
 //: [Previous](@previous)
+import UIKit
 
-import Foundation
+/*:
+ # Image Renderer
 
-var str = "Hello, playground"
+ Use an image renderer to easily manage Core Graphics contexts when you want to draw images
+ */
 
-//: [Next](@next)
+
+//: [PDF Renderer](@next)

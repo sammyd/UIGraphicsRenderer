@@ -1,7 +1,10 @@
-//: [Previous](@previous)
+//: [PDF Renderer](@previous)
+import UIKit
 
-import Foundation
+/*:
+ # Graphics Renderer Context Reuse
+ 
+ Memory efficient reuse of Core Graphics contexts
+ */
 
-var str = "Hello, playground"
-
-//: [Next](@next)
+//: [Subclassing](@next)
