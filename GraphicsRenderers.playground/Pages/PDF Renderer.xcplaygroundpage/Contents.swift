@@ -1,4 +1,4 @@
-//: [Image Renderer](@previous)
+//: [←Image Renderer](@previous)
 import UIKit
 /*:
  # PDF Renderer
@@ -6,4 +6,4 @@ import UIKit
  Easily create PDFs
  */
 
-//: [Context Reuse](@next)
+//: [Context Reuse→](@next)

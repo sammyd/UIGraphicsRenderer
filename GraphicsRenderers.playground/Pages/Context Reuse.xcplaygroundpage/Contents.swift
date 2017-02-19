@@ -1,4 +1,4 @@
-//: [PDF Renderer](@previous)
+//: [←PDF Renderer](@previous)
 import UIKit
 
 /*:
@@ -7,4 +7,4 @@ import UIKit
  Memory efficient reuse of Core Graphics contexts
  */
 
-//: [Subclassing](@next)
+//: [Subclassing→](@next)

@@ -1,4 +1,4 @@
-//: [Context Reuse](@previous)
+//: [←Context Reuse](@previous)
 import UIKit
 /*:
  # Subclassing UIGraphicsRenderer

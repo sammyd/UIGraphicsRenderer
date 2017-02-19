@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 import UIKit
 
 /*:
@@ -8,4 +7,4 @@ import UIKit
  */
 
 
-//: [PDF Renderer](@next)
+//: [PDF Renderer→](@next)
